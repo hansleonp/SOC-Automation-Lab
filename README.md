@@ -36,3 +36,12 @@ sudo tar -xvf wazuh-install-files.tar
 
 **5. Set up the Hive in the Cloud**
 
+
+<img width="1436" alt="image" src="https://github.com/user-attachments/assets/6bd978f0-dc27-4436-a1d1-37b6fab5ad6f" />
+
+
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/b24e0e89-78b6-4369-8beb-19e7968ef0b5" />
+
+![Pasted Graphic 1](https://github.com/user-attachments/assets/6d8c554f-323a-41c4-ac3d-ba3baea5b204)
+
+
