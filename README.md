@@ -184,6 +184,9 @@ sudo apt-get install -y thehive
 
 <img width="918" alt="image" src="https://github.com/user-attachments/assets/2489bac7-a999-45d3-af79-bc9ed7d2c31f" />
 
+
+![Pasted Graphic 1](https://github.com/user-attachments/assets/6d8c554f-323a-41c4-ac3d-ba3baea5b204)
+
 ---
 
 ## 🤖 6. Shuffle (SOAR) Integration
@@ -232,6 +235,5 @@ Der Workflow triggert bei erfolgreichem Alert:
 | **VirusTotal API**   | IOC Enrichment                       |
 
 
-![Pasted Graphic 1](https://github.com/user-attachments/assets/6d8c554f-323a-41c4-ac3d-ba3baea5b204)
 
 
