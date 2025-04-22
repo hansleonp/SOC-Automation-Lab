@@ -24,6 +24,7 @@ Das vollständige Architekturdiagramm ist hier abrufbar:
 
 ➡️ [[Draw.io Workflow](#)](https://app.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#Hhansleonp%2FSOC-Automation-Lab%2Fmain%2FWorkflow.drawio) *
 
+![image](https://github.com/user-attachments/assets/6da447ea-0b42-49d4-9b79-ef8990486910)
 
 
 ---
