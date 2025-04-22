@@ -22,7 +22,7 @@ Ein funktionierender Security Workflow, der von der **Erkennung über Reaktion b
 
 Das vollständige Architekturdiagramm ist hier abrufbar:
 
-➡️ [Draw.io Workflow](#) *(Link zum Diagramm einfügen)*
+➡️ [[Draw.io Workflow](#)](https://app.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#Hhansleonp%2FSOC-Automation-Lab%2Fmain%2FWorkflow.drawio) *
 
 
 
