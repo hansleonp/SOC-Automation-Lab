@@ -31,7 +31,7 @@ Das vollständige Architekturdiagramm ist hier abrufbar:
 
 ## 📺 Tutorials & Referenzen
 
-YouTube Playlist zum Projekt 🔄 *(Link hier einfügen)*
+YouTube Playlist zum Projekt 🔄 *(https://www.youtube.com/watch?v=XR3eamn8ydQ&t=5s)*
 
 ---
 
